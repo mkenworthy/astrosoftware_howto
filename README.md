@@ -6,7 +6,7 @@ If you haven't done so already, register for an [ORCID](https://orcid.org/) Iden
 
 Procedure for software packages:
 
-  * Learn [version control using GIT](http://nyuccl.org/pages/GitTutorial/|version control using git) and how to upload your software to [github](https://github.com/). Make sure you choose a permissive license for your software - I have used the [BSD 3-cleause license](https://github.com/mkenworthy/pds_110_exorings/blob/master/LICENSE).
+  * Learn [version control using GIT](http://nyuccl.org/pages/GitTutorial/) and how to upload your software to [github](https://github.com/). Make sure you choose a permissive license for your software - I have used the [BSD 3-clause license](https://github.com/mkenworthy/pds_110_exorings/blob/master/LICENSE).
   * Register the software at [Astrophysics Source Code Library](http://ascl.net/) (Q: does this happen automatically or should you be active in it?)
   * Optionally upload it to [Zenodo](https://zenodo.org/) (Q: why Zenodo over any other storage place?)
 
