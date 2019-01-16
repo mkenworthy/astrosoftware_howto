@@ -19,6 +19,34 @@ Procedure for plots and figure scripts:
   * Submit figures with accompanying explanation to [Figshare](https://figshare.com/).
 
 
+## Citing astronomy software
+
+
+  * Astropy from [Acknowledging Astropy](https://www.astropy.org/acknowledging.html) - We provide the following LaTeX/BibTeX acknowledgment if there is no specific place to cite the papers:
+
+This research made use of Astropy,\footnote{http://www.astropy.org} a community-developed core Python package for Astronomy \citep{astropy:2013, astropy:2018}.
+ 
+  * Scipy [Citing Scipy](https://www.scipy.org/citing.html)
+ 
+  * Numpy [Citing Numpy](https://academia.stackexchange.com/questions/120718/cite-numpy-in-bibtex)
+ 
+  * Matplotlib [Citing matplotlib](https://matplotlib.org/citing.html)
+ 
+  * Pandas - cite McKinney 2010
+  
+  You can use the SciPy 2010 proceedings citation: 
+
+    @InProceedings{ mckinney-proc-scipy-2010, 
+      author    = { Wes McKinney }, 
+      title     = { Data Structures for Statistical Computing in Python }, 
+      booktitle = { Proceedings of the 9th Python in Science Conference }, 
+      pages     = { 51 - 56 }, 
+      year      = { 2010 }, 
+      editor    = { St\'efan van der Walt and Jarrod Millman } 
+    } 
+
+
+## History of this document
+
 v01 written by M Kenworthy based on Twitter conversations with Steve Crawford and Abigail Stevens on 2017 June 28
 Putting it on github suggested by Thomas Robitaille
-
