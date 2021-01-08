@@ -7,8 +7,8 @@ If you haven't done so already, register for an [ORCID](https://orcid.org/) Iden
 Procedure for software packages:
 
   * Learn [version control using GIT](http://nyuccl.org/pages/GitTutorial/) and how to upload your software to [github](https://github.com/). Make sure you choose a permissive license for your software - I have used the [BSD 3-clause license](https://github.com/mkenworthy/pds_110_exorings/blob/master/LICENSE).
-  * Register the software at [Astrophysics Source Code Library](http://ascl.net/).  Currently, the ASCL accepts astronomy code that has appeared in a peer review research, submitted for peer review, or is an accepted astronomy thesis.  (Q: does this happen automatically or should you be active in it?)
-  * Optionally upload it to [Zenodo](https://zenodo.org/) (Q: why Zenodo over any other storage place?)
+  * Register the software at [Astrophysics Source Code Library](http://ascl.net//submissions).  Currently, the ASCL accepts astronomy code that has appeared in a peer review research, submitted for peer review, or is an accepted astronomy thesis.
+  * Optionally upload it to [Zenodo](https://zenodo.org/) which has stable funding so your code will be archived and available long term. Zenodoo wil also issue a digital object identifier (DOI), which is the standard way to cite digital resources.
   * If the package is not described in its own paper, consider submitted it to [Journal of Open Source Software](http://joss.theoj.org/)
 
 
